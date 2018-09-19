@@ -1,0 +1,102 @@
+= Bots on the Net: The Good, the Bad, and the Future
+:author: Mike Amundsen
+:email: mca@amundsen.com
+:toc:
+
+== Overview
+Status:: _Delivered 2018-9-22 at WebExpo, Prague, Czech Republic_
+Home:: link:index.html[HTML]
+Slides:: _NA_
+Prepared Talk:: _NA_
+Video:: _NA_
+Audio:: _NA_
+Transcript:: _NA_
+
+
+== Abstract
+Bots are becoming more and more prevalent on the Internet. The power of "Internet Robots" runs from simple web crawlers to dependable assistants to curious creatures trying to learn and grow on their own. The promise of 'bots is that they willfree humans to focus on more important and interesting things. But most online bots require lots of investment in design, implementation, and maintenance. Some even require human "trainers" to ensure they continue to operate properly. And some clearly don't "operate properly" when left to fend for themselves against humans and other 'bots on the 'net. So are bots a good thing or not?
+
+In this lively talk, Mike Amundsen touches on the history of software bots from Liza and Parry to Clippy and MOMSpider to Siri, chatbots and more. We'll explore both learning and non-learning machines and discuss the different ways in which machines can "learn" including the difference between "specialized" and "generalized" AI. 
+
+Finally, we'll review the challenges to 'bots on the 'net including shortcomings in AI and learning, inbuilt and acquired bias, truth, trust, and security, and the effects 'bots will have on jobs and the economy. Through it all we'll be looking at what the future holds for both humans and machines when we live in a world of 'bots on the 'net.
+ 
+== Mike Amundsen
+_Lead API Architect, API Academy, CA Technologies_
+
+An internationally known author and lecturer, Mike Amundsen travels throughout the world consulting and speaking on a wide range of topics including distributed network architecture, Web application development, and other subjects. 
+
+In his role of Director of Architecture for the API Academy, Amundsen heads up the API Architecture and Design Practice in North America. He is responsible for working with companies to provide insight on how best to capitalize on the myriad opportunities APIs present to both consumers and the enterprise. 
+
+Amundsen has authored numerous books and papers on programming over the last 15 years.  His collaboration with Leonard Richardson titled "RESTful Web APIs" was published in 2013. His 2011 book, “Building Hypermedia APIs with HTML5 and Node”, is an oft-cited reference on building adaptable Web applications. O'Reilly Media released his latest book - "RESTful Web Clients" in March of 2017.
+
+ * Twitter: http://twitter.com/mamund[@mamund]
+ * Blog: http://amundsen.com/blog/[http://amundsen.com/blog/]
+ * Github: http://github.com/mamund[http://github.com/mamund]
+ * LinkedIn: http://linkedin.com/in/mamund[http://linkedin.com/in/mamund]
+ * Facebook: http://facebook.com/mcaTravels[http://facebook.com/mcaTravels]
+ 
+== Outline
+ 
+  * Intro (5min)
+  ** Mike Amundsen (1min)
+  ** Bots Then (1min)
+  ** Bots Now (1min)
+  ** Bots Challenge (2min)
+  * The Good (10min)
+  ** Eliza (3min)
+  *** Background
+  *** Examples
+  *** Results
+  ** Historical Promise (examples) (3min)
+  ** From Physical to Virtual (2min)
+  ** AI vs. Bots (Specialized AI) (2min)
+  *** What is SAI?
+  *** Power of SAI
+  *** Limits of SAI
+  * The Bad (10min)
+  ** Parry (3min)
+  *** Background
+  *** Examples
+  *** Results
+  ** Historical Problems (IRL examples) (3min)
+  *** Training bias
+  *** Built-in race bias
+  *** learns abusive terms
+  ** The Power of Negativity (2min)
+  *** Our brains value risk over reward
+  *** We obsess about negative feedback
+  *** We heighten danger senses
+  ** AI vs. Humans (Generalized AI) (2min)
+  *** What is Generalized AI
+  *** GAI Challenges
+  *** GAI Dangers
+  * The Future (10min)
+  ** Bad News (5min)
+  *** Facebook/YouTube (2min)
+  *** Lack of Regulations (1min)
+  **** Must a bot self-identify?
+  **** Should humans have an option to reject a bot?
+  **** Can a bot commit a crime? who is responsible? runner? trainer? builder?
+  *** Lack of Transparency (2min)
+  **** Is this a bot? 
+  **** Who is running it?
+  **** Who has trained the bot?
+  **** What is the corpus used in training?
+  ** Good News (5min)
+  *** Slack/ChatOps? (2min)
+  *** Robust Constraints (1min)
+  **** Must self-identify
+  **** Must be a "licensed" bot (by runner/owner/trainer)
+  **** Insured against crimes/abuse by underwriting service
+  *** Built-In Visibility (2min)
+  **** Always easy to see this is a bot
+  **** Always easy to discover the company/person running the bot
+  **** Always able to identify who/what trained the bot
+  **** Always possible to identify/review/modify the training material
+  * Summary (5min)
+  ** The Challenge (1min)
+  ** Eliza's Promise (1min)
+  ** Parry's Problems (1min)
+  ** Future's Possiblities (2min)
+  
+ 
